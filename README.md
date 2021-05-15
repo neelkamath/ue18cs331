@@ -4,7 +4,7 @@ These are my assignments for [PESU](https://pes.edu/)'s UE18CS331 (Generic Progr
 
 ## Installation
 
-1. Either install g++ or [Docker](https://docs.docker.com/get-docker/).
+1. Install either g++ or [Docker](https://docs.docker.com/get-docker/).
 1. Clone the repo using one of the following methods:
     - SSH: `git clone git@github.com:neelkamath/ue18cs331.git`
     - HTTPS: `git clone https://github.com/neelkamath/ue18cs331.git`
